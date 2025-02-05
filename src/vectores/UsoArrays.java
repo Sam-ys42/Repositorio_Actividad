@@ -4,6 +4,7 @@ import javax.swing.JOptionPane;
 public class UsoArrays {
 
 	public static void main(String[] args) {
+		//Este procedimiento se ha modificado por YelenaSamiradelaCruzMenacho
 		// TODO Esbozo de metodo generado automaticamente
 
 		int opcion=Integer.parseInt(JOptionPane.showInputDialog("Dame una opcion (1-2)"));
